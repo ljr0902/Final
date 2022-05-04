@@ -47,7 +47,7 @@
         </article>
  
         <footer>
-            <img src="image/Untitled-1.png"width="800" height="130" border="0" alt="address">    
+            <img src="image/Untitled-1.png" width="800" height="130" border="0" alt="address">    
         </footer>
  
     </div>
