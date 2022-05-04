@@ -26,9 +26,9 @@
  
             <nav>
                 <ul>
-                    <li><a href="https://ljr0902.github.io/processJ/">Brainstorming and Process</a></li> 
+                    <li><a href="https://ljr0902.github.io/Process/">Brainstorming and Process</a></li> 
 
-                    <li><a href="https://ljr0902.github.io/resultJ/">Result</a></li> 
+                    <li><a href="https://ljr0902.github.io/Results/">Result</a></li> 
                   
                 </ul>
             </nav>
